@@ -1,0 +1,15 @@
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\bin\Debug\net6.0\Ex47, 50, 52.exe
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\bin\Debug\net6.0\Ex47, 50, 52.deps.json
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\bin\Debug\net6.0\Ex47, 50, 52.runtimeconfig.json
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\bin\Debug\net6.0\Ex47, 50, 52.dll
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\bin\Debug\net6.0\Ex47, 50, 52.pdb
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\Ex47, 50, 52.csproj.AssemblyReference.cache
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\Ex47, 50, 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\Ex47, 50, 52.AssemblyInfoInputs.cache
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\Ex47, 50, 52.AssemblyInfo.cs
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\Ex47, 50, 52.csproj.CoreCompileInputs.cache
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\Ex47, 50, 52.dll
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\refint\Ex47, 50, 52.dll
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\Ex47, 50, 52.pdb
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\Ex47, 50, 52.genruntimeconfig.cache
+C:\Users\100nout\Documents\GeekBrains\C#\HW7\Ex47, 50, 52\obj\Debug\net6.0\ref\Ex47, 50, 52.dll
